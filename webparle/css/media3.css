@@ -1,0 +1,183 @@
+@media screen and (min-width:401px) and (max-width:800px){
+    .about-img-layout
+    {
+        width: 25%;
+    
+        box-sizing: border-box;
+        margin-top: 100px;
+        
+        
+        
+    }
+    .bg-img
+    {
+        background: url("/images/uwp4347741.png") no-repeat center center fixed;
+        background-size:cover;
+        height: 100vh;
+        width: 100%;
+        image-resolution: 100%;
+    }
+    .about-cntent-layout{
+        width: 100%;
+        height: 100%;
+        font-size: 50rem;
+        margin-top: 20px;
+    }
+    .about-img-layout
+    {
+        width: 25%;
+    
+        box-sizing: border-box;
+        margin-top: 20px;
+        
+        
+        
+    }
+    .abt-img{
+        background: url("/images/1.jpeg") no-repeat center center ;
+        background-size: cover;
+        box-shadow: 4px 5px 10px black;
+        height: 30vh;
+        width: 85%;
+        
+    }
+    .about-img-layout
+    {
+        width: 25%;
+    
+        box-sizing: border-box;
+       
+        
+        
+    }
+    .abt-img2{
+        background: url("/images/2.jpeg") no-repeat center center ;
+        background-size: cover;
+        box-shadow: 4px 5px 10px black;
+        height: 30vh;
+        position: relative;
+        width: 85%;
+        margin-right: 800px;
+        
+    }
+    .about-img-layout
+    {
+        width: 25%;
+    
+        box-sizing: border-box;
+       
+        
+        
+    }
+    .abt-img3{
+        background: url("/images/3.jpeg") no-repeat center center ;
+        background-size: cover;
+        box-shadow: 4px 5px 10px black;
+        height: 30vh;
+        position: relative;
+        width: 85%;
+        margin-right: 800px;
+        
+    }
+    .about-img-layout
+    {
+        width: 25%;
+    
+        box-sizing: border-box;
+        
+       
+        
+        
+    }
+    .abt-img4{
+        background: url("/images/4.jpeg") no-repeat center center ;
+        background-size: cover;
+        box-shadow: 4px 5px 10px black;
+        height: 30vh;
+        position: relative;
+        width: 85%;
+        margin-right: 800px;
+        
+    }
+    .about-img-layout
+    {
+        width: 25%;
+    
+        box-sizing: border-box;
+        margin-top: 100px;
+        
+        
+        
+    }
+    .abt-img5{
+        background: url("/images/5.jpeg") no-repeat center center ;
+        background-size: cover;
+        box-shadow: 4px 5px 10px black;
+        height: 30vh;
+        position: relative;
+        width: 85%;
+        margin-right: 800px;
+        
+    }
+    .about-img-layout
+    {
+        width: 25%;
+    
+        box-sizing: border-box;
+        margin-top: 100px;
+        
+        
+        
+    }
+    .abt-img6{
+        background: url("/images/6.jpeg") no-repeat center center ;
+        background-size: cover;
+        box-shadow: 4px 5px 10px black;
+        height: 30vh;
+        position: relative;
+        width: 85%;
+        margin-right: 800px;
+        
+    }
+    .about-img-layout
+    {
+        width: 25%;
+    
+        box-sizing: border-box;
+        margin-top: 100px;
+        
+        
+        
+    }
+    .abt-img7{
+        background: url("/images/7.jpeg") no-repeat center center ;
+        background-size: cover;
+        box-shadow: 4px 5px 10px black;
+        height: 30vh;
+        position: relative;
+        width: 85%;
+        margin-right: 800px;
+        
+    }
+    .about-img-layout
+    {
+        width: 25%;
+    
+        box-sizing: border-box;
+        margin-top: 100px;
+        
+        
+        
+    }
+    .abt-img8{
+        background: url("/images/8.jpeg") no-repeat center center ;
+        background-size: cover;
+        box-shadow: 4px 5px 10px black;
+        height: 30vh;
+        position: relative;
+        width: 100%;
+        margin-right: 800px;
+        
+    }
+
+}

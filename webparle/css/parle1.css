@@ -1,0 +1,262 @@
+*
+{
+    margin: 0px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+section
+{
+    padding: 60px 0px;
+    box-sizing: border-box;
+}
+.headngs_css
+{
+    margin-bottom: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 2.5rem;
+    color: black;
+}
+.container
+{
+    padding: 0px 60px;
+}
+.row
+{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+/* navbar css start */
+.navbar
+{
+    background-color: white;
+    height: 80px;
+    width:100%;
+    color:black;
+    padding: 20px 60px;
+    transition: all 5s ease-in;
+}
+.nav-row
+{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.bg-img1{
+    background: url("/images/parel4-removebg-preview.png");
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+}
+.title
+{
+    font-size: 1.5rem;
+    margin-right: 695px;
+}
+.nav-menu>ul>li{
+    list-style: none;
+    display: inline;
+
+}
+.nav-menu>ul>li>a{
+   text-decoration: none;
+   color: black;
+   font-size: 1.2rem;
+   text-transform: uppercase;
+   padding: 10px;
+}
+
+/*.nav-menu>ul>li>a:hover{
+background-color: red;
+z-index:-1;
+transition: transform 0.5s;
+transition-timing-function: cubic-bezier(0.5,1.6,0.4,0.7);
+
+}*/
+/* navbar css end */
+
+/* landing image  */
+.bg-img
+{
+    background: url("/images/uwp4347741.png") no-repeat center center fixed;
+    background-size:cover;
+    height: 100vh;
+    width: 100%;
+    image-resolution: 100%;
+}
+
+/* about section */
+.about-img-layout
+{
+    width: 25%;
+
+    box-sizing: border-box;
+    margin: 50px;
+
+   
+    
+    
+}
+.abt-img{
+    background: url("/images/1.jpeg") no-repeat center center ;
+    background-size: cover;
+    box-shadow: 4px 5px 10px black;
+    height: 30vh;
+    width: 85%;
+    
+}
+.card-layout
+{
+    width:30%;
+    margin:20px;
+
+}
+.card
+{
+    padding: 10px;
+    box-shadow: 2px 2px 3px 5px gray;
+}
+.card-image
+{
+    background: url("/images/1.jpeg") no-repeat center center ;
+    background-size: cover;
+    height: 30vh;
+    width: 100%;
+}
+.card-image1
+{
+    background: url("/images/2.jpeg") no-repeat center center ;
+    background-size: cover;
+    height: 30vh;
+    width: 100%;
+}
+.card-image2
+{
+    background: url("/images/3.jpeg") no-repeat center center ;
+    background-size: cover;
+    height: 30vh;
+    width: 100%;
+}
+.card-image3
+{
+    background: url("/images/4.jpeg") no-repeat center center ;
+    background-size: cover;
+    height: 30vh;
+    width: 100%;
+}
+.card-image4
+{
+    background: url("/images/5.jpeg") no-repeat center center ;
+    background-size: cover;
+    height: 30vh;
+    width: 100%;
+}
+.card-image5
+{
+    background: url("/images/6.jpeg") no-repeat center center ;
+    background-size: cover;
+    height: 30vh;
+    width: 100%;
+}
+.card-image6
+{
+    background: url("/images/7.jpeg") no-repeat center center ;
+    background-size: cover;
+    height: 30vh;
+    width: 100%;
+}
+.card-image7
+{
+    background: url("/images/8.jpeg") no-repeat center center ;
+    background-size: cover;
+    height: 30vh;
+    width: 100%;
+}
+.card-body
+{
+    text-align: center;
+}
+.card-body>h2{
+    font-size: 2rem;
+    color: black;
+    padding: 20px 0px;
+
+}
+.card-body>h2>code{
+    font-size: 2rem;
+    color: rgb(242, 59, 59);
+    padding: 20px 0px;
+
+}
+.card-body>h3{
+    font-size: 2rem;
+    color: green;
+    padding: 20px 0px;
+
+}
+.map-lyout,.contact-layout
+{
+    width: 50%;
+    padding: 20px
+}
+.txtlyout
+{
+    width: 100%;
+    margin-bottom: 20px;
+    
+}
+.form-control
+{
+    width: 100%;
+    padding: 15px 20px;
+    border-radius: 20px;
+    color:green;
+    font-size:1.5rem;
+    text-align: center;
+    text-transform: uppercase;
+}
+::placeholder{
+    color:green;
+    text-align: left;
+}
+.form-control1
+{
+    width: 100%;
+    padding: 15px 20px;
+    border-radius: 20px;
+    margin-top: 20px;
+    color:green;
+    font-size:1.5rem;
+    text-align: center;
+}
+.btn
+{
+    background-color: green;
+    padding: 15px 20px;
+    color: white;
+    border-radius: 10px;
+    border-style: none;
+    display: block;
+    width: 25%;
+    margin: 30px auto;
+    text-align: center;
+}
+footer
+{
+    background-color: #123456;
+    padding: 20px 30px;
+}
+.ftr
+{
+    text-align: center;
+    color: white;
+    font-size: 1.4rem;
+    text-transform: uppercase;
+}

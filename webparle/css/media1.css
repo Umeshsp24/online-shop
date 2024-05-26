@@ -1,0 +1,92 @@
+@media screen and (min-width:0px) and (max-width:400px){
+
+    .bg-img
+{
+    background: url("/images/uwp4347741.png") no-repeat center center fixed;
+    background-size:cover;
+    height: 30vh;
+    width: 100%;
+    image-resolution: 100%;
+}
+    .about-img-layout
+{
+    width: 100%;
+
+    box-sizing: border-box;
+    margin-top: 100px;
+    
+    
+    
+}
+.headngs_css
+{
+    margin-bottom: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 0.80rem;
+    color: black;
+}
+.card-layout
+{
+    width:100% !important   ;
+    margin:20px;
+
+}
+.card
+{
+    padding: 10px;
+    box-shadow: 2px 2px 3px 5px gray;
+}
+.card-image
+{
+    background: url("/images/1.jpeg") no-repeat center center ;
+    background-size: cover;
+    height: 30vh;
+    width: 100%;
+}
+.navbar
+{
+    background-color: white;
+    width:100%;
+    color:black;
+    padding: 10px 10px;
+    transition: all 5s ease-in;
+}
+.nav-row
+{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.bg-img
+{
+    background: url("/images/uwp4347741.png") no-repeat center center fixed;
+    background-size:cover;
+    height: 100vh;
+    width: 100%;
+    image-resolution: 100%;
+}
+.map-lyout
+{
+    width: 10%;
+    padding: 20px
+}
+.txtlyout
+{
+    width: 100%;
+    margin-bottom: 20px;
+    
+}
+.form-control
+{
+    width: 100%;
+    padding: 15px 20px;
+    border-radius: 20px;
+    color:green;
+    font-size:1.5rem;
+    text-align: center;
+    text-transform: uppercase;
+}
+}
